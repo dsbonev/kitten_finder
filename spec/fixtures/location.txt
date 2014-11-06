@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK 
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: application/json; charset=utf-8
+Etag: "24f37bffe520162d9ad86f7dfb536e32"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 8c82c898-4bec-457f-a372-4548dfd198f0
+X-Runtime: 0.682253
+Server: WEBrick/1.3.1 (Ruby/2.1.2/2014-05-08)
+Date: Thu, 06 Nov 2014 08:56:12 GMT
+Content-Length: 156
+Set-Cookie: request_method=GET; path=/
+Via: 1.1 vegur
+
+{"message":"Congratulations! The search party successfully recovered the missing kittens. Please zip up your code and send it to chris.patuzzo@which.co.uk"}

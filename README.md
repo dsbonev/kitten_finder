@@ -1,6 +1,6 @@
 # KittenFinder
 
-TODO: Write a gem description
+Finds the location of the abducted kittens with the help of forensic data.
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Requires an email that had been given access to use forensic data.
+See the specs for usage examples.
 
 ## Contributing
 
